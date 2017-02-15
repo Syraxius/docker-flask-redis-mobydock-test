@@ -1,52 +1,47 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# C extensions
-*.so
+# Folder config file
+Desktop.ini
 
-# Distribution / packaging
-node_modules/
-bin/
-build/manifest.json
-develop-eggs/
-dist/
-eggs/
-parts/
-sdist/
-var/
-npm-debug.log
-*.egg-info/
-.installed.cfg
-*.egg
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# Unit test / coverage reports
-.coverage
-.cache
+# Windows shortcuts
+*.lnk
 
-# Translations
-*.mo
+# =========================
+# Operating System Files
+# =========================
 
-# Sphinx documentation
-docs/_build/
+# OSX
+# =========================
 
-# OS and editor files
 .DS_Store
-*/**.DS_Store
-._*
-.*.sw*
-*~
-.idea/
-.mr.developer.cfg
-.project
-.pydevproject
-*.tmproj
-*.tmproject
-tmtags
+.AppleDouble
+.LSOverride
 
-# App ignores.
-instance/settings.py
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
